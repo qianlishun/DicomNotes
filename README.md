@@ -25,6 +25,7 @@ Dicom的资料并不多，还大部分是英文，找资料的时候发现一个
 * 主页：http://dicom.offis.de 
 * 下载：http://dicom.offis.de/dcmtk.php.en 
 * 论坛：http://forum.dcmtk.org/ 
+* GitHub：https://github.com/DCMTK/dcmtk
 
 ### mDCM (fo-dicom)
 mDCM基于Dcmtk开发，fo-dicom是mDCM的升级版本，
